@@ -5,3 +5,5 @@ Shopping List
 - Corn Starch
 - Bread Flour
 - Yeast
+- Coca Cola
+- Lemon Tea
