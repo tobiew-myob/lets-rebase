@@ -3,3 +3,5 @@ Shopping List
 - French Fries
 - Rice Paper
 - Corn Starch
+- Bread Flour
+- Yeast
