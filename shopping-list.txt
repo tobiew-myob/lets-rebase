@@ -2,6 +2,7 @@ Shopping List
 - French Fries
 - Rice Paper
 - Corn Starch
+- Sugar
 - Bread Flour
 - Yeast
 - Coca Cola
